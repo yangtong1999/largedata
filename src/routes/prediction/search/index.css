@@ -1,0 +1,12 @@
+.SearchWrapper{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	width: 90%;
+	margin:0 auto;
+	padding: 20px 10px;
+	opacity: 0.8;
+}
+.select{
+	margin:20px 0;
+}

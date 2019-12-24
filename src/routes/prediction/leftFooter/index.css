@@ -1,0 +1,15 @@
+.leftFooter{
+	width: 60%;
+	height: 100%;
+	background: url("../../../assets/bg3.png");
+	background-repeat: no-repeat;
+	background-size:121% 150%;
+	background-position:center;
+	overflow: hidden;
+}
+.select{
+	margin: 10px 20px 0 20px;
+}
+.echarts1{
+	margin-top: -30px;
+}

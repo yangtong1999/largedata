@@ -1,0 +1,42 @@
+.backgroundImg{
+	background: url("../../assets/1.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+
+.predictionButton{
+	position: absolute;
+	top: 10px;
+	right: 30px;
+	opacity: 0.7;
+}
+.Wrapper{
+	display: flex;
+	position: absolute;
+	height: 90%;
+	width: 100%;
+	justify-content: space-around;
+}
+.option{
+	color: white;
+	font-size: 16px;
+}
+.title{
+	font-size: 30px;
+	background: linear-gradient(to bottom, #44CFEA, #06C8EF);
+    -webkit-background-clip: text;
+    color: transparent;
+	display: block;
+	padding: 10px 0;
+	width: 500px;
+	box-shadow: 2px 5px 10px #81F7F3;
+	margin:0 auto;
+	font-family: "FangSong_GB2312";
+	background-position:center;
+}

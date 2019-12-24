@@ -1,0 +1,28 @@
+.vehicleWrapper{
+	width: 400px;
+	height: 100%;
+	background: url("../../assets/bg1.png");
+	background-repeat: no-repeat;
+	background-size:170% 100%;
+	border-radius: 10px;
+  background-position:center;
+	/*display: flex;
+	justify-content: space-around;*/
+}
+.selectInput1{
+	padding:30px 0 0 0;
+	opacity: 0.7;
+	color:rgba(27,59,134,1);
+	margin:0 5px;
+}
+.table{
+	width: 350px;
+	margin:0 auto;
+	opacity: 0.7;
+	padding: 20px 10px;
+	color: yellow;
+}
+.optionInput{
+ background:rgba(27,59,134,0.3);
+}
+

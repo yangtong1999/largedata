@@ -1,0 +1,36 @@
+.leftplayWrapper{
+	width: 400px;
+	height:90%; 
+	background: url("../../../assets/bg1.png");
+	background-repeat: no-repeat;
+	background-size:185% 105%;
+	background-position:center;
+}
+.table{
+	width: 90%;
+	margin:0 auto;
+	opacity: 0.8;
+}
+.titleWrapper{
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 0;
+}
+.title{
+	color: white;
+	font-size: 16px;
+	display: flex;
+	justify-content: space-around;
+}
+.play{
+	color: white;
+	margin:10px 0 0 0;
+}
+.select{
+	background: url("../../../assets/button.png");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:150% 600%;
+   color: white;
+   border: 0; 
+}

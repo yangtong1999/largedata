@@ -1,0 +1,16 @@
+.rightPlay{
+    width: 500px;
+	height:50%; 
+	background: url("../../../assets/bg2.png");
+	background-repeat: no-repeat;
+	background-size:100% 160%;
+	background-position:center;
+}
+.select{
+	background: url("../../../assets/button.png");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size:150% 600%;
+   color: white;
+   border: 0; 
+}

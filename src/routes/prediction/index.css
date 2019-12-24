@@ -1,0 +1,47 @@
+.predictionWrapper{
+	background: url("../../assets/2.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+}
+.title{
+	font-size: 30px;
+	background: linear-gradient(to bottom, #44CFEA, #06C8EF);
+    -webkit-background-clip: text;
+    color: transparent;
+	display: block;
+	padding: 10px 0;
+	width: 500px;
+	margin:0 auto;
+	font-family: "FangSong_GB2312";
+}
+.rightPlay1{
+    width: 500px;
+	height:40%; 
+	background: url("../../assets/bg2.png");
+	background-repeat: no-repeat;
+	background-size:100% 160%;
+	background-position:center;
+}
+.rightPlay2{
+    width: 500px;
+	height:60%; 
+	background: url("../../assets/bg2.png");
+	background-repeat: no-repeat;
+	background-size:100% 160%;
+	background-position:center;
+}
+.footer{
+	height: 33%;
+	display: flex;
+	justify-content: space-around;
+}
+.mapWrapper{
+	height: 60%;
+	display: flex;
+	justify-content: space-between;
+}

@@ -1,0 +1,126 @@
+const chinaData = [{
+	name: '西藏',
+	option: '无数据',
+	value: 0
+}, {
+	name: '青海',
+	option: "无数据",
+	value: 0
+}, {
+	name: '宁夏',
+	option: "无数据",
+	value: 0
+}, {
+	name: '海南',
+	option: "无数据",
+	value: 0
+}, {
+	name: '甘肃',
+	option: "无数据",
+	value: 0
+}, {
+	name: '贵州',
+	option: "无数据",
+	value: 0
+}, {
+	name: '新疆',
+	option: "无数据",
+	value: 0
+}, {
+	name: '云南',
+	option: "有数据",
+	value: 3423
+}, {
+	name: '重庆',
+	option: "有数据",
+	value: 3432
+}, {
+	name: '吉林',
+	option: "无数据",
+	value: 0
+}, {
+	name: '山西',
+	option: "有数据",
+	value: 2321
+}, {
+	name: '天津',
+	option: "无数据",
+	value: 0
+}, {
+	name: '江西',
+	option: "有数据",
+	value: 4332
+}, {
+	name: '广西',
+	option: "有数据",
+	value: 6544
+}, {
+	name: '陕西',
+	option: "有数据",
+	value: 343
+}, {
+	name: '黑龙江',
+	option: "有数据",
+	value: 334
+}, {
+	name: '内蒙古',
+	option: "有数据",
+	value: 343
+}, {
+	name: '安徽',
+	option: "有数据",
+	value: 342
+}, {
+	name: '北京',
+	option: "有数据",
+	value: 32
+}, {
+	name: '福建',
+	option: "有数据",
+	value: 356
+}, {
+	name: '上海',
+	option: "有数据",
+	value: 342
+}, {
+	name: '湖北',
+	option: "有数据",
+	value: 756
+}, {
+	name: '湖南',
+	option: "有数据",
+	value: 234
+}, {
+	name: '四川',
+	option: "有数据",
+	value: 3322
+}, {
+	name: '辽宁',
+	option: "有数据",
+	value: 545
+}, {
+	name: '河北',
+	option: "有数据",
+	value: 98
+}, {
+	name: '河南',
+	option: "有数据",
+	value: 785
+}, {
+	name: '浙江',
+	option: "有数据",
+	value: 456
+}, {
+	name: '山东',
+	option: "无数据",
+	value: 0
+}, {
+	name: '江苏',
+	option: "有数据",
+	value: 543
+}, {
+	name: '广东',
+	option: "有数据",
+	value: 343
+}, ]
+export default chinaData;
